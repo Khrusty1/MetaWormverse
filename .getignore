@@ -1,0 +1,6 @@
+node_modules
+.idea
+.env
+wallet.json
+.env
+.env.local
